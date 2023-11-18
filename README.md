@@ -3,6 +3,7 @@
 
 ## About
 This is a proveable random lottery powered by smart contracts
+Written while following Patrick Collin's Solidity course
 
 ## What happens
 1. Users can enter by paying for ticket
